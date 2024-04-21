@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashwitha-reddy.
 - 👀 I’m interested in Artificial intelligence, Machine learning and Data Science.
-- 🌱 I’m currently learning Deep learning.
+- 🌱 I’m currently working as a Specialist at Bristol Myers Squibb.
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 Reach me on ashwithara@gmail.com
 
